@@ -1,7 +1,7 @@
 Hi 👋 My name is Joel Perca
 ===========================
 
-Web developer
+Computer Science Student & Web developer
 -------------
 
 Learning about Software Engineering
