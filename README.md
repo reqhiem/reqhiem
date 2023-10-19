@@ -11,7 +11,7 @@ A passionate software developer from Peru & Computer Science Student
 
 - 🌱 I’m currently learning **ML/AI, Software Engineering**
 
-- 👨‍💻 All of my projects are available at [http://www.reqhiem.one/](http://www.reqhiem.one/)
+- 👨‍💻 All of my projects are available at [https://reqhiem.netlify.app/](https://reqhiem.netlify.app/)
 
 - 📫 How to reach me **jperca@unsa.edu.pe**
 
