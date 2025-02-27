@@ -1,18 +1,17 @@
 
-<h2 align="left">Hi 👋! My name is Joel and I'm a Full Stack developer</h2>
+<h2 align="left">Hi 👋! My name is Joel and I'm a Software Engineer</h2>
 
-A passionate Full Stack developer based in Arequipa, Perú & Computer Science bachelor 
+A passionate Full Stack Engineer based in Rio de Janeiro, BRL & Computer Science bachelor
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reqhiem&label=Profile%20views&color=0e75b6&style=flat" alt="reqhiem" /> </p>
 
 
 
-- 🌱 I’m currently learning **Robotic Process Automation & Odoo development**
+- 🌱 I’m currently learning **Data Science & Visualization**
 
-- 👨‍💻 All of my projects are available at [https://reqhiem.lat](https://reqhiem.lat/)
+- 👨‍💻 All of my projects are available at [https://reqhiem.dev](https://reqhiem.dev/)
 
 - 📫 How to reach me **joelperca.vc@gmail.com**
-
 ###
 
 <div align="center">
